@@ -1,0 +1,20 @@
+# Dépendances
+node_modules/
+
+# Build / cache Wrangler
+.wrangler/
+dist/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables d'environnement
+.env
+.env.*
+!.env.example
