@@ -5,7 +5,7 @@ Fondé par Nzouzi Exaucé Divin.
 
 - Site en ligne : https://divservices.pages.dev
 - Hébergement : Cloudflare Pages
-- Code source : GitHub
+- Code source : https://github.com/monsieurnzouzi-divin/divservices-officiel
 
 ## Structure
 
